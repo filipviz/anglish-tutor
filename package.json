@@ -1,0 +1,9 @@
+{
+  "name": "anglish-tutor",
+  "version": "1.0.0",
+  "description": "Learn Anglish from the command line.",
+  "main": "index.js",
+  "type": "module",
+  "author": "filipviz",
+  "license": "MIT"
+}
